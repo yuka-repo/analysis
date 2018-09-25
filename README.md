@@ -1,4 +1,4 @@
-# Pet Store Global Sales Report
+# Pet Corp Global Sales Report
 
 - Pet Store Sales report gitHub.ipynb: main code
 - utils.py: function definition
