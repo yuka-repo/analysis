@@ -5,7 +5,7 @@
 - data folder: input data
 - output foloder: outputs from the script
 
-This script reads in monthly sales data provided by sales companies and creates reports used in monthly meetings.  
+This script reads in monthly sales data provided by sales companies and creates reports used in monthly meetings for a fictional global pet supply corporation.  It does the following:
 
 - Cleans up data
 - Standardizes currencies and product names etc. 
