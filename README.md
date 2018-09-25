@@ -1,9 +1,9 @@
 # Pet Store Global Sales Report
 
-Pet Store Sales report gitHub.ipynb: main code
-utils.py: function definition
-data folder: input data
-output foloder: outputs from the script
+- Pet Store Sales report gitHub.ipynb: main code
+- utils.py: function definition
+- data folder: input data
+- output foloder: outputs from the script
 
 This script reads in monthly sales data provided by sales companies and creates reports used in monthly meetings.  
 
