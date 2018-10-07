@@ -1,15 +1,16 @@
 # Pet Corp Global Sales Report
 
+Files
 - Pet Store Sales report gitHub.ipynb: main code
 - utils.py: function definition
 - data folder: input data
-- output foloder: outputs from the script
+- output folder: outputs from the script
 
-This script reads in monthly sales data provided by sales companies and creates reports used in monthly meetings for a fictional global pet supply corporation.  It does the following:
+This script reads in monthly sales data provided by sales companies and creates outputs necessary for monthly corporate sales report for a fictional global pet supply corporation.  It does the following:
 
 - Cleans up data
-- Standardizes currencies and product names etc. 
-- Aggregates monthly results per regialnal sales company
+- Standardizes currencies and products etc. 
+- Aggregates monthly results per regional sales company
 - Outputs aggregated and non-aggregated sales figures in Excel
-- Outputs coversion rates used in calculations
-- Plots graphs and outputs in png for each product
+- Outputs conversion rates used in calculations for verification
+- Plots graphs in requested format and outputs in png for each product
